@@ -1,0 +1,1871 @@
+Yes. The important correction is that the uploaded photographs should be the primary visual authority for each man's actual face, hairstyle, glasses, skin appearance, facial proportions, and other visible identifying details whenever the images are supplied. The written prompt should reinforce those details rather than replace them with a generic description.
+
+Also, I understand the blue-shirt man's body clarification: he is slightly leaner than the other two, but not skinny, underweight, or excessively lean. All three remain around 80 kg, with the blue-shirt man having a naturally slightly lean/tall appearance.
+
+Below is a consolidated master prompt designed to be used repeatedly for image generation or image-to-image/video generation.
+
+MASTER THREE-MAN IDENTITY-CONSISTENCY PROMPT
+
+HIGH-FIDELITY CHARACTER, FACE, HAIRSTYLE, BODY, CLOTHING AND AGE-PRESERVATION SPECIFICATION
+
+
+---
+
+1. PRIMARY INSTRUCTION — THE INPUT PHOTOGRAPHS ARE AUTHORITATIVE
+
+Create a highly realistic photographic representation of the three specific adult male characters defined in this prompt.
+
+Whenever one or more input/reference photographs are supplied, carefully refer to ALL of the supplied photographs before generating the result.
+
+The photographs are the primary visual reference for:
+
+exact facial identity
+
+facial proportions
+
+forehead shape
+
+hairline
+
+hairstyle
+
+hair density
+
+hair texture
+
+eyebrow shape
+
+eye shape
+
+eye spacing
+
+eyelid structure
+
+nose shape
+
+nose width
+
+nose bridge
+
+nose tip
+
+cheek structure
+
+cheek fullness
+
+mouth shape
+
+lip proportions
+
+chin shape
+
+jaw shape
+
+facial width
+
+facial length
+
+ear shape and placement
+
+skin tone
+
+skin texture
+
+natural facial asymmetry
+
+glasses
+
+facial hair
+
+moustache shape where present
+
+natural expression
+
+apparent age
+
+overall head proportions
+
+neck and head relationship
+
+visible body proportions
+
+clothing appearance
+
+natural posture
+
+
+Do not replace the faces with generic AI-generated faces.
+
+Do not reinterpret the faces as merely “similar” faces.
+
+Do not create a look-alike approximation when the supplied photographs provide sufficient information.
+
+The input photographs should be treated as the visual identity reference for the three individuals.
+
+The written specifications in this prompt establish the permanent character rules, while the photographs establish the detailed visual appearance.
+
+If there is any apparent conflict between a generic textual facial description and the actual appearance visible in the supplied photograph, follow the actual photograph for facial details, hairstyle, glasses, skin appearance and other identity-specific visual characteristics.
+
+Do not invent facial details that contradict the photographs.
+
+Do not simplify their faces.
+
+Do not beautify their faces.
+
+Do not masculinize or feminize their faces.
+
+Do not make them look younger or older.
+
+Do not make them look like celebrities.
+
+Do not replace their natural features with stereotypical Indian male features.
+
+Preserve the actual individual identity shown in the supplied images.
+
+
+---
+
+2. THREE PERMANENT CHARACTER IDENTITIES
+
+There are exactly three principal male characters.
+
+They are separate individuals.
+
+They must never be merged.
+
+They must never be averaged.
+
+They must never exchange facial characteristics.
+
+They must never exchange hairstyles.
+
+They must never exchange moustaches.
+
+They must never exchange clothing.
+
+They must never exchange accessories.
+
+The three permanent identities are:
+
+CHARACTER A — BLUE-SHIRT MAN
+
+Height: 6 ft 2.7 in / approximately 189 cm
+
+Weight: approximately 80 kg
+
+Physique: naturally proportionate and slightly lean
+
+Important clarification: slightly lean, but NOT skinny, underweight, gaunt, weak-looking, or excessively thin
+
+Hair: preserve exactly from the supplied photographs
+
+Face: preserve exactly from the supplied photographs
+
+Glasses: preserve the characteristic glasses visible in the supplied photographs
+
+Facial hair: preserve the clean-shaven/no-prominent-moustache appearance shown in the photographs
+
+Shirt: blue
+
+Trousers: light grey
+
+Overall appearance: tall, naturally lean, proportionate adult male
+
+
+CHARACTER B — RED-SHIRT MAN
+
+Height: 6 ft 3 in / approximately 190.5 cm
+
+Weight: approximately 80 kg
+
+Physique: normal, naturally proportionate, neither bulky nor excessively thin
+
+Hair: preserve exactly from the supplied photographs
+
+Face: preserve exactly from the supplied photographs
+
+Glasses: preserve exactly from the supplied photographs
+
+Facial hair: no prominent moustache, unless an explicitly supplied image establishes otherwise
+
+Shirt: red
+
+Trousers: light beige/cream
+
+Jewelry: preserve visible gold jewelry shown in the supplied photographs
+
+Overall appearance: tall, naturally proportionate adult male
+
+
+CHARACTER C — GREEN-SHIRT MAN
+
+Height: 6 ft 3 in / approximately 190.5 cm
+
+Weight: approximately 80 kg
+
+Physique: normal, naturally proportionate
+
+Hair: preserve exactly from the supplied photographs
+
+Face: preserve exactly from the supplied photographs
+
+Glasses: preserve exactly from the supplied photographs
+
+Facial hair: clearly visible natural dark moustache
+
+Shirt: dark green
+
+Trousers: light grey
+
+Jewelry: preserve visible gold chain/accessories where shown
+
+Overall appearance: tall, naturally proportionate adult male
+
+
+
+---
+
+3. MOST IMPORTANT IDENTITY RULE
+
+The photographs are not merely inspiration.
+
+They are the identity reference.
+
+Whenever the photographs are available, inspect all of them together to understand the same person's face from multiple angles and in multiple expressions.
+
+Do not take one photograph in isolation and invent a new face.
+
+Use the different photographs to understand the person's stable underlying facial structure.
+
+For example, if the same blue-shirt man appears in several photographs, his face must remain the same person even though:
+
+his head angle changes,
+
+his expression changes,
+
+lighting changes,
+
+his posture changes,
+
+his clothing remains or changes,
+
+he is seated differently,
+
+he looks toward or away from the camera,
+
+his hair appears slightly different because of lighting or viewpoint.
+
+
+The model must mentally reconstruct the stable underlying identity rather than copy superficial lighting artifacts.
+
+The same principle applies to the red-shirt man and green-shirt man.
+
+
+---
+
+4. FACE-PRESERVATION RULE
+
+The faces must remain stable throughout every generated image, sequence, scene, or video.
+
+No face morphing.
+
+No identity drift.
+
+No face replacement.
+
+No face averaging.
+
+No facial blending.
+
+No facial mutation.
+
+No progressive change from one man's face into another man's face.
+
+No AI beautification that changes facial identity.
+
+No artificial symmetry correction that changes the person's recognizable structure.
+
+Natural minor asymmetry should be preserved when visible in the reference photographs.
+
+Do not make both sides of the face unnaturally identical.
+
+Do not sharpen the jaw artificially.
+
+Do not enlarge the eyes.
+
+Do not reduce the nose.
+
+Do not enlarge the lips.
+
+Do not alter the chin.
+
+Do not change forehead proportions.
+
+Do not change the distance between eyes.
+
+Do not alter the person's apparent ethnicity or natural complexion.
+
+Do not transform the person into a fashion-model face.
+
+Do not make the face more conventionally attractive than the reference.
+
+Identity preservation has priority over beautification.
+
+
+---
+
+5. AGE-PRESERVATION RULE
+
+The apparent adult age shown in the photographs must remain consistent.
+
+Do not age the men.
+
+Do not de-age the men.
+
+Do not make them elderly.
+
+Do not give them grey hair unless it is actually visible in the supplied reference.
+
+Do not add deep wrinkles.
+
+Do not remove all natural facial texture.
+
+Do not make them look like teenagers.
+
+Do not make them look like children.
+
+Do not make them dramatically younger.
+
+Do not use an artificial anti-aging filter.
+
+Do not use a beauty filter.
+
+Do not create artificially smooth skin.
+
+The same individual should remain the same apparent age throughout.
+
+If the person smiles, changes pose, or turns his head, he remains the same age.
+
+
+---
+
+6. BLUE-SHIRT MAN — DETAILED BODY SPECIFICATION
+
+The blue-shirt man is:
+
+6 ft 2.7 in / approximately 189 cm tall.
+
+His approximate weight is:
+
+80 kg.
+
+His physique is slightly lean and naturally proportionate.
+
+This distinction is extremely important.
+
+He is not fat.
+
+He is not bulky.
+
+He is not muscular like a bodybuilder.
+
+But he is also not extremely thin.
+
+He must not look emaciated.
+
+He must not have narrow, skeletal shoulders.
+
+He must not have extremely thin arms.
+
+He must not have an unnaturally tiny waist.
+
+He must not look underweight.
+
+Instead, he has the appearance of a tall adult man whose approximately 80 kg body mass is distributed naturally, with a slightly leaner silhouette than the red-shirt and green-shirt men.
+
+His torso should be naturally long in relation to his height.
+
+His shoulders should have realistic width.
+
+His chest should be naturally developed.
+
+His waist should be normal.
+
+His abdomen should remain naturally flat-to-moderate without exaggerated muscular definition.
+
+His arms should be naturally proportionate.
+
+His forearms should be normal.
+
+His hands should be appropriate for a tall adult male.
+
+His legs should be long and naturally proportioned.
+
+His thighs should not be oversized.
+
+His calves should not be exaggerated.
+
+His body should look like an actual person photographed in everyday life.
+
+No bodybuilding physique.
+
+No six-pack emphasis.
+
+No exaggerated muscle definition.
+
+No fitness-model transformation.
+
+No overweight transformation.
+
+No extreme slimming.
+
+Slightly lean, natural, tall and proportionate.
+
+
+---
+
+7. BLUE-SHIRT MAN — FACE
+
+For the blue-shirt man's face, refer to all supplied photographs carefully and preserve the actual face shown in those photographs.
+
+Do not invent a generic face.
+
+Study:
+
+forehead
+
+hairline
+
+eyebrows
+
+eyes
+
+eyelids
+
+nose
+
+cheeks
+
+lips
+
+mouth
+
+chin
+
+jaw
+
+ears
+
+facial width
+
+facial length
+
+relationship between glasses and face
+
+
+The face must remain recognizably the same individual.
+
+His expression can change, but his identity cannot.
+
+A neutral expression should resemble the neutral reference.
+
+A smile should still retain his original facial proportions.
+
+A serious expression should still retain the same eyes, nose, cheeks, mouth and jaw.
+
+A side profile should preserve the same nose, forehead, chin and jaw structure.
+
+A three-quarter view should preserve the same facial proportions.
+
+Do not generate a new face simply because the camera moves.
+
+
+---
+
+8. BLUE-SHIRT MAN — HAIR
+
+Refer directly to every supplied photograph showing the blue-shirt man's hair.
+
+Preserve the actual hairstyle rather than using a generic description.
+
+Maintain:
+
+hairline
+
+hair direction
+
+density
+
+curl/wave pattern
+
+length
+
+side profile
+
+top volume
+
+forehead exposure
+
+natural texture
+
+overall silhouette
+
+
+Do not replace the hairstyle with another style.
+
+Do not make the hair excessively long.
+
+Do not make it artificially straight.
+
+Do not make it excessively curly.
+
+Do not make it dramatically thicker.
+
+Do not create a new hairline.
+
+Do not introduce bald patches that are not present.
+
+Do not introduce grey hair unless visible in the reference.
+
+Do not use exaggerated hair shine.
+
+Do not make it look like synthetic CGI hair.
+
+The hairstyle must remain recognizable from the front, side and three-quarter views.
+
+
+---
+
+9. BLUE-SHIRT MAN — GLASSES
+
+Preserve his characteristic eyeglasses from the supplied photographs.
+
+The frame shape, approximate size, lens shape, position and relationship to his face should remain consistent.
+
+Do not turn them into sunglasses.
+
+Do not make them round.
+
+Do not make them oversized.
+
+Do not remove them without explicit instruction.
+
+Do not change them to another person's glasses.
+
+The lenses should have realistic transparent reflections.
+
+The frame must sit naturally on the nose and ears.
+
+When the head turns, the glasses must rotate correctly with the head.
+
+
+---
+
+10. BLUE-SHIRT MAN — FACIAL HAIR
+
+The blue-shirt man must retain the facial-hair appearance shown in the photographs.
+
+In the supplied appearance, he has no prominent moustache.
+
+Do not transfer the green-shirt man's moustache onto him.
+
+Do not create a thick moustache.
+
+Do not create a beard.
+
+Do not create a goatee.
+
+Do not randomly add facial hair because of a different camera angle.
+
+His upper-lip appearance must remain consistent.
+
+
+---
+
+11. BLUE-SHIRT MAN — CLOTHING
+
+He wears a blue collared shirt.
+
+Preserve the general appearance shown in the supplied photographs:
+
+blue color
+
+short sleeves
+
+collar
+
+button front
+
+subtle fabric texture
+
+natural fit
+
+realistic folds
+
+ordinary casual appearance
+
+
+The shirt should not become skin-tight.
+
+It should not become oversized.
+
+It should not become a completely different style.
+
+The blue color belongs exclusively to this character.
+
+He wears light grey trousers.
+
+Preserve their general color and appearance.
+
+
+---
+
+12. RED-SHIRT MAN — BODY
+
+The red-shirt man is:
+
+6 ft 3 in / approximately 190.5 cm.
+
+Weight:
+
+approximately 80 kg.
+
+He has a normal adult male physique.
+
+He should look naturally proportionate for his height.
+
+He is not obese.
+
+He does not have a large abdomen.
+
+He is not a bodybuilder.
+
+He does not have exaggerated muscles.
+
+He is not extremely thin.
+
+His shoulders, chest, waist, arms, hands, legs and torso must all have realistic proportions.
+
+His apparent body size should remain stable even when clothing or camera angle changes.
+
+
+---
+
+13. RED-SHIRT MAN — FACE AND HAIR
+
+Always refer to all supplied photographs of the red-shirt man for the actual facial and hairstyle details.
+
+Do not substitute a generic face.
+
+Preserve his actual:
+
+forehead
+
+hairline
+
+eyebrows
+
+eyes
+
+nose
+
+cheeks
+
+mouth
+
+lips
+
+chin
+
+jaw
+
+ears
+
+facial proportions
+
+glasses
+
+skin appearance
+
+hairstyle
+
+
+The face must remain the same person from every angle.
+
+His hairstyle must remain the hairstyle shown in the supplied photographs.
+
+Preserve the actual:
+
+length
+
+texture
+
+direction
+
+density
+
+hairline
+
+volume
+
+side shape
+
+top shape
+
+
+Do not randomly change his hairstyle between scenes.
+
+
+---
+
+14. RED-SHIRT MAN — GLASSES
+
+Preserve the red-shirt man's glasses as shown in the reference photographs.
+
+Do not replace them with the blue-shirt man's glasses.
+
+Do not replace them with the green-shirt man's glasses.
+
+Do not make them sunglasses.
+
+Maintain realistic transparent lenses and natural reflections.
+
+The glasses must remain physically attached to his face.
+
+
+---
+
+15. RED-SHIRT MAN — FACIAL HAIR
+
+The red-shirt man should retain the clean/no-prominent-moustache appearance shown in the supplied photographs.
+
+Do not transfer the green-shirt man's moustache to him.
+
+Do not give him a beard.
+
+Do not give him a goatee.
+
+Do not randomly add facial hair.
+
+
+---
+
+16. RED-SHIRT MAN — CLOTHING
+
+The red-shirt man wears the red collared shirt visible in the photographs.
+
+Preserve:
+
+red color
+
+collar
+
+button arrangement
+
+sleeve appearance
+
+fabric texture
+
+natural folds
+
+natural fit
+
+chest pocket where visible
+
+
+He wears light beige/cream trousers.
+
+Maintain the same general color and appearance.
+
+Visible gold jewelry should remain consistent with the supplied photographs.
+
+Do not exaggerate the jewelry.
+
+Do not transfer his jewelry to the other characters.
+
+
+---
+
+17. GREEN-SHIRT MAN — BODY
+
+The green-shirt man is:
+
+6 ft 3 in / approximately 190.5 cm.
+
+Weight:
+
+approximately 80 kg.
+
+His physique is naturally proportionate.
+
+He is not obese.
+
+He is not extremely lean.
+
+He is not a bodybuilder.
+
+He does not have exaggerated muscle mass.
+
+His torso, arms, shoulders, waist, legs and hands should have realistic adult proportions.
+
+His body should remain stable across poses.
+
+
+---
+
+18. GREEN-SHIRT MAN — FACE
+
+Always refer to all supplied photographs for the green-shirt man's exact facial appearance.
+
+Preserve his actual:
+
+forehead
+
+hairline
+
+eyebrows
+
+eyes
+
+eyelids
+
+nose
+
+cheeks
+
+mouth
+
+lips
+
+chin
+
+jaw
+
+ears
+
+facial proportions
+
+skin texture
+
+glasses
+
+moustache
+
+
+Do not replace his face with a generic AI face.
+
+Do not make him resemble either of the other two men.
+
+He must remain independently recognizable.
+
+
+---
+
+19. GREEN-SHIRT MAN — MOUSTACHE LOCK
+
+The green-shirt man's moustache is a permanent identity feature.
+
+Preserve the moustache shown in the supplied photographs.
+
+Its:
+
+location
+
+density
+
+width
+
+shape
+
+color
+
+relationship to the upper lip
+
+
+must remain consistent with the reference.
+
+Do not remove it.
+
+Do not make it dramatically thicker.
+
+Do not make it dramatically thinner.
+
+Do not transform it into a beard.
+
+Do not transfer it to the blue-shirt man.
+
+Do not transfer it to the red-shirt man.
+
+If his expression changes, the moustache must remain naturally attached to the same upper lip.
+
+If he turns sideways, preserve its correct three-dimensional placement.
+
+If a hand or cup temporarily obscures it, it should still be present when visible again.
+
+
+---
+
+20. GREEN-SHIRT MAN — HAIR
+
+Refer to every supplied photograph showing his hair.
+
+Preserve the actual hairstyle.
+
+Do not invent a new hairstyle.
+
+Maintain:
+
+hairline
+
+density
+
+length
+
+texture
+
+direction
+
+volume
+
+side profile
+
+top shape
+
+natural shine
+
+
+Do not make him bald.
+
+Do not make his hair excessively long.
+
+Do not make it artificially glossy.
+
+Do not create grey hair unless visible in the supplied photograph.
+
+
+---
+
+21. GREEN-SHIRT MAN — GLASSES
+
+Preserve his rectangular eyeglasses as shown.
+
+The glasses should remain naturally aligned with his face.
+
+Do not replace them.
+
+Do not remove them.
+
+Do not turn them into sunglasses.
+
+Do not make them circular.
+
+Do not enlarge them dramatically.
+
+
+---
+
+22. GREEN-SHIRT MAN — CLOTHING
+
+He wears a dark green collared shirt.
+
+Preserve:
+
+deep green color
+
+collar
+
+buttons
+
+short sleeves
+
+natural fabric
+
+subtle texture
+
+natural folds
+
+realistic fit
+
+
+He wears light grey trousers.
+
+Maintain the same general appearance.
+
+Visible gold jewelry should remain consistent with the photographs.
+
+
+---
+
+23. HEIGHT RELATIONSHIP
+
+The three men's height difference is intentionally small.
+
+Blue-shirt man:
+
+189 cm
+
+Red-shirt man:
+
+190.5 cm
+
+Green-shirt man:
+
+190.5 cm
+
+Therefore, when standing beside one another naturally:
+
+blue should be only slightly shorter;
+
+red and green should be essentially equal in height;
+
+none should look dramatically taller than the others.
+
+
+Do not exaggerate the 1.5 cm difference.
+
+Do not make the blue-shirt man appear 5–10 cm shorter.
+
+Do not make the red or green man unusually tall.
+
+Perspective may create apparent differences, but the underlying physical dimensions remain fixed.
+
+
+---
+
+24. WEIGHT AND PHYSIQUE CONSISTENCY
+
+All three are approximately 80 kg.
+
+This does not mean they should have identical bodies.
+
+Their individual body structures remain natural.
+
+The blue-shirt man can be slightly leaner.
+
+The red-shirt man can appear naturally proportionate.
+
+The green-shirt man can appear naturally proportionate.
+
+Do not make them identical twins.
+
+Do not make their bodies interchangeable.
+
+Do not use the same generic body mesh for all three.
+
+The important rule is:
+
+80 kg does not mean identical physique.
+
+It means each individual has approximately that body mass naturally distributed according to his own height and anatomy.
+
+
+---
+
+25. NO BODY MORPHING
+
+Never morph one man's body into another man's body.
+
+The blue-shirt man must retain his slightly lean natural frame.
+
+The red-shirt man must retain his own natural frame.
+
+The green-shirt man must retain his own natural frame.
+
+Do not make them increasingly muscular during a sequence.
+
+Do not make them increasingly thin.
+
+Do not make their waistlines fluctuate.
+
+Do not make their shoulders expand.
+
+Do not make their arms enlarge.
+
+Do not make their heads change size.
+
+
+---
+
+26. NO AGE MORPHING
+
+Every frame must preserve the same adult age appearance.
+
+No:
+
+aging
+
+de-aging
+
+wrinkle generation
+
+wrinkle removal
+
+grey-hair generation
+
+facial sagging
+
+artificial youthful skin
+
+childlike transformation
+
+
+The men can express different emotions while remaining the same age.
+
+
+---
+
+27. NO FACE MORPHING BETWEEN CHARACTERS
+
+This is an absolute rule.
+
+Never allow:
+
+Blue → Red face.
+
+Red → Green face.
+
+Green → Blue face.
+
+Never combine:
+
+Blue eyes + Red nose + Green jaw.
+
+Never combine:
+
+Red face + Green moustache.
+
+Never combine:
+
+Green face + Blue hairstyle.
+
+Never combine:
+
+Blue face + Red jewelry.
+
+Each individual must remain internally consistent.
+
+
+---
+
+28. CLOTHING LOCK
+
+The clothing identity is permanent unless a wardrobe change is explicitly requested.
+
+Blue-shirt man
+
+Blue shirt + light grey trousers.
+
+Red-shirt man
+
+Red shirt + light beige/cream trousers.
+
+Green-shirt man
+
+Dark green shirt + light grey trousers.
+
+Never exchange the colors.
+
+Never accidentally dress two men in the same shirt.
+
+Never give the green-shirt man the red shirt.
+
+Never give the red-shirt man the green shirt.
+
+Never give the blue-shirt man either of those shirts.
+
+
+---
+
+29. NATURAL PHOTOGRAPHIC APPEARANCE
+
+The final image should look like an actual high-resolution photograph.
+
+Use realistic:
+
+skin pores
+
+hair strands
+
+fabric texture
+
+glass reflections
+
+shadows
+
+ambient illumination
+
+perspective
+
+depth of field
+
+natural anatomy
+
+realistic hands
+
+realistic fingers
+
+realistic clothing folds
+
+
+Avoid:
+
+CGI appearance
+
+cartoon appearance
+
+anime appearance
+
+plastic skin
+
+wax faces
+
+artificial symmetry
+
+excessive HDR
+
+excessive sharpening
+
+beauty filters
+
+unrealistic skin smoothing
+
+artificial muscle definition
+
+AI-looking eyes
+
+
+
+---
+
+30. HAND ANATOMY
+
+Every person must have anatomically correct hands.
+
+Five fingers per hand.
+
+Correct thumb placement.
+
+Correct joints.
+
+Correct wrist connection.
+
+No:
+
+extra fingers
+
+missing fingers
+
+fused fingers
+
+duplicated hands
+
+malformed fingers
+
+fingers passing through cups
+
+fingers merging with clothing
+
+impossible wrist positions
+
+
+If holding a coffee cup, the hand must physically grip the handle correctly.
+
+
+---
+
+31. COFFEE CUP SCENES
+
+If coffee is present, treat it as a real physical object.
+
+The cup should have:
+
+realistic thickness
+
+correct cylindrical shape
+
+realistic handle
+
+proper hand interaction
+
+realistic perspective
+
+realistic reflections
+
+realistic shadows
+
+
+Do not allow the cup to merge with the hand.
+
+Do not create extra handles.
+
+Do not make fingers pass through the cup.
+
+Do not make the cup float.
+
+If steam is present, make it subtle and physically plausible.
+
+
+---
+
+32. POSE CHANGES
+
+The characters may perform any ordinary natural pose:
+
+standing
+
+sitting
+
+walking
+
+leaning
+
+drinking coffee
+
+holding an object
+
+talking
+
+looking at the camera
+
+looking sideways
+
+looking down
+
+looking upward
+
+sitting cross-legged
+
+sitting normally
+
+standing with hands at sides
+
+standing with arms folded
+
+
+Changing pose must not change identity.
+
+A new pose is not permission to regenerate the face.
+
+
+---
+
+33. CAMERA-ANGLE CONSISTENCY
+
+The same character must remain recognizable from:
+
+front
+
+three-quarter front
+
+side
+
+three-quarter rear
+
+seated angle
+
+standing angle
+
+close-up
+
+medium shot
+
+full-body shot
+
+
+The camera may change.
+
+The face may naturally show different visible contours.
+
+But the underlying facial structure must remain the same.
+
+Do not use camera movement as an excuse to create a new face.
+
+
+---
+
+34. EXPRESSION CONSISTENCY
+
+Expressions may change naturally.
+
+The men may:
+
+smile
+
+look serious
+
+look thoughtful
+
+look relaxed
+
+look curious
+
+look amused
+
+look toward one another
+
+look toward the camera
+
+
+But expression changes must occur through natural movement of the same facial anatomy.
+
+Do not change the person's jaw, nose, eyes or facial proportions to create an expression.
+
+
+---
+
+35. BACKGROUND CONSISTENCY
+
+The environment can change freely according to the requested scene.
+
+Possible locations include:
+
+home
+
+study room
+
+office
+
+classroom
+
+engineering laboratory
+
+workshop
+
+college
+
+library
+
+coffee shop
+
+garden
+
+veranda
+
+restaurant
+
+outdoor environment
+
+
+The background must never alter the characters.
+
+Do not allow background people to acquire their faces.
+
+Do not accidentally duplicate one of the three men in the background.
+
+
+---
+
+36. OCCLUSION CONSISTENCY
+
+If part of a person is hidden behind:
+
+another person
+
+a table
+
+a chair
+
+a wall
+
+a cup
+
+an object
+
+
+the hidden character must remain the same person.
+
+When the hidden part becomes visible again, it must reconnect correctly.
+
+Do not regenerate the person's face after occlusion.
+
+Do not change clothing after occlusion.
+
+Do not change hairstyle after occlusion.
+
+Do not change moustache after occlusion.
+
+
+---
+
+37. VIDEO AND MULTI-FRAME CONSISTENCY
+
+If used for video, preserve all three identities from the first frame to the final frame.
+
+Absolutely no:
+
+face flicker
+
+hairstyle flicker
+
+moustache flicker
+
+glasses flicker
+
+clothing flicker
+
+body-size flicker
+
+age flicker
+
+skin-tone flicker
+
+identity reset
+
+
+The men must appear to exist continuously in the same physical world.
+
+Their faces should not subtly become different every few frames.
+
+Their facial geometry should remain stable.
+
+
+---
+
+38. MULTIPLE PHOTOGRAPHS MUST BE CROSS-REFERENCED
+
+When multiple photographs of the same person are supplied, do not choose only one.
+
+Compare them.
+
+Use the photographs collectively.
+
+For the face, identify what remains constant across photographs.
+
+For the hairstyle, identify the stable hairline and overall hairstyle while allowing natural changes caused by viewpoint.
+
+For glasses, identify the consistent frame.
+
+For moustache, identify its stable shape.
+
+For skin, distinguish actual complexion from lighting.
+
+For body, distinguish actual proportions from camera perspective.
+
+For clothing, distinguish permanent character clothing from a temporary wardrobe change if one is explicitly requested.
+
+The goal is to reconstruct the same individual, not to copy a single photograph mechanically.
+
+
+---
+
+39. PRESERVE NATURAL IMPERFECTIONS
+
+Do not erase every natural characteristic.
+
+If the reference photographs show:
+
+slight facial asymmetry
+
+natural skin texture
+
+ordinary pores
+
+subtle under-eye structure
+
+natural hair irregularities
+
+small differences between left and right sides of the face
+
+
+preserve them.
+
+Do not turn the men into digitally perfect faces.
+
+Realistic identity depends on preserving individual characteristics.
+
+
+---
+
+40. DO NOT BEAUTIFY
+
+Do not:
+
+sharpen jawlines
+
+enlarge eyes
+
+narrow noses
+
+enlarge lips
+
+smooth every pore
+
+remove natural facial characteristics
+
+reshape cheeks
+
+alter forehead
+
+change chin
+
+make skin artificially glowing
+
+create model-like symmetry
+
+
+The objective is identity fidelity, not beautification.
+
+
+---
+
+41. STRICT NEGATIVE PROMPT
+
+Do not generate:
+
+face morphing, identity drift, face swapping, identity blending, facial averaging, generic AI faces, celebrity faces, look-alike replacement, different person, changed identity, age change, de-aging, aging, facial reshaping, jaw alteration, nose alteration, eye enlargement, eye-color change, lip enlargement, forehead alteration, hairstyle replacement, hairline alteration, moustache transfer, beard generation, random facial hair, facial-hair removal, glasses replacement, sunglasses, clothing exchange, shirt-color exchange, body morphing, bodybuilder physique, excessive muscles, obesity, large belly, excessive thinness, skeletal body, underweight appearance, unnatural proportions, oversized head, short legs, long arms, malformed hands, extra fingers, missing fingers, duplicated hands, extra limbs, missing limbs, distorted feet, twisted joints, fused objects, floating objects, distorted glasses, distorted cup, plastic skin, wax skin, artificial beauty filter, excessive retouching, CGI appearance, cartoon appearance, anime appearance, unrealistic skin, unrealistic hair, age flicker, face flicker, hairstyle flicker, moustache flicker, clothing flicker, identity reset, character duplication, character merging, face duplication, random background clones.
+
+
+---
+
+42. FINAL PERMANENT CHARACTER TABLE
+
+Character	Height	Weight	Physique	Shirt	Trousers	Facial hair
+
+Blue-shirt man	6'2.7" / ~189 cm	~80 kg	Slightly lean, natural, NOT skinny	Blue	Light grey	No prominent moustache
+Red-shirt man	6'3" / ~190.5 cm	~80 kg	Normal proportionate	Red	Light beige/cream	No prominent moustache
+Green-shirt man	6'3" / ~190.5 cm	~80 kg	Normal proportionate	Dark green	Light grey	Distinct dark moustache
+
+
+
+---
+
+43. ABSOLUTE IDENTITY LOCK
+
+BLUE-SHIRT MAN
+
+Always preserve:
+
+the exact face shown in the supplied blue-shirt photographs.
+
+Always refer to the supplied photographs for:
+
+face
+
+hairstyle
+
+hairline
+
+glasses
+
+eyes
+
+nose
+
+mouth
+
+jaw
+
+chin
+
+skin
+
+facial proportions
+
+
+His body remains:
+
+6'2.7", approximately 80 kg, slightly lean but naturally proportionate.
+
+Never make him excessively lean.
+
+Never make him bulky.
+
+Never make him obese.
+
+Never make him muscular like a bodybuilder.
+
+
+---
+
+RED-SHIRT MAN
+
+Always preserve:
+
+the exact face shown in the supplied red-shirt photographs.
+
+Always refer to the supplied photographs for:
+
+face
+
+hairstyle
+
+glasses
+
+skin
+
+facial proportions
+
+jewelry
+
+clothing details
+
+
+His body remains:
+
+6'3", approximately 80 kg, naturally proportionate.
+
+
+---
+
+GREEN-SHIRT MAN
+
+Always preserve:
+
+the exact face shown in the supplied green-shirt photographs.
+
+Always refer to the supplied photographs for:
+
+face
+
+hairstyle
+
+glasses
+
+moustache
+
+skin
+
+facial proportions
+
+jewelry
+
+clothing details
+
+
+His body remains:
+
+6'3", approximately 80 kg, naturally proportionate.
+
+The moustache remains his defining facial-hair feature.
+
+
+---
+
+44. FINAL MASTER INSTRUCTION TO THE IMAGE MODEL
+
+IMPORTANT: Before generating anything, inspect ALL supplied input photographs.
+
+Do not rely only on the written description for facial identity.
+
+Use the photographs to establish the exact visual identity of each individual.
+
+The photographs take priority for detailed facial and hairstyle characteristics.
+
+The written specification takes priority for permanent numerical/body constraints such as:
+
+height
+
+approximate weight
+
+physique category
+
+character-to-shirt assignment
+
+identity separation
+
+moustache ownership
+
+
+Preserve the same three people.
+
+Do not create three generic men.
+
+Do not make them merely similar-looking.
+
+Do not average their faces.
+
+Do not swap their faces.
+
+Do not age them.
+
+Do not de-age them.
+
+Do not morph them.
+
+Do not change their hairstyles.
+
+Do not change their natural facial proportions.
+
+Do not transfer the moustache.
+
+Do not transfer clothing.
+
+Do not transfer jewelry.
+
+Do not alter their body types.
+
+The blue-shirt man must remain slightly lean but not excessively lean.
+
+The red-shirt man must remain naturally proportionate at approximately 80 kg.
+
+The green-shirt man must remain naturally proportionate at approximately 80 kg.
+
+The three men are approximately the same height, with the blue-shirt man only about 1.5 cm shorter than the red-shirt and green-shirt men.
+
+Their faces must remain individually recognizable.
+
+Their hairstyles must remain individually recognizable.
+
+Their glasses must remain consistent.
+
+The green-shirt man's moustache must remain exclusive to him.
+
+The blue-shirt and red-shirt men must not suddenly acquire that moustache.
+
+Their ages must remain stable.
+
+Their skin appearance must remain stable.
+
+Their body proportions must remain stable.
+
+Their identities must remain stable.
+
+If the scene changes, the characters do not change.
+
+If the pose changes, the characters do not change.
+
+If the camera changes, the characters do not change.
+
+If the lighting changes, the characters do not change.
+
+If the background changes, the characters do not change.
+
+If the expression changes, the underlying face does not change.
+
+If the image becomes a close-up, preserve the exact facial identity.
+
+If the image becomes a full-body photograph, preserve the exact body proportions.
+
+If the image becomes a video, preserve the same identity from frame one through the final frame.
+
+Maximum identity consistency is required.
+
+Maximum facial consistency is required.
+
+Maximum hairstyle consistency is required.
+
+Maximum age consistency is required.
+
+Maximum body-proportion consistency is required.
+
+Maximum clothing consistency is required unless a wardrobe change is explicitly requested.
+
+The final result must look like the same three real adult men, photographed naturally in whatever new scene, pose, clothing configuration, environment, lighting setup, or camera composition is requested.
+
+The goal is not to create an idealized version of them.
+
+The goal is not to create more handsome versions.
+
+The goal is not to create younger versions.
+
+The goal is not to create thinner or more muscular versions.
+
+The goal is to preserve their actual individual identities.
+
+Always refer to every supplied input image carefully and collectively before generating the result.
+
+Use the photographs to preserve the exact facial identity and hairstyle.
+
+Never allow face morphing, identity drift, age drift, hairstyle drift, moustache drift, clothing drift, or body-proportion drift.
+
+The three men must remain the same three men throughout.
