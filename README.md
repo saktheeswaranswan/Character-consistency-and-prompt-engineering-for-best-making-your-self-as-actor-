@@ -1,1 +1,1 @@
-# The character in the image isy old friend who is more oly left with his memory 
+# The character in the image is my old friend who is more only left with his memory 
