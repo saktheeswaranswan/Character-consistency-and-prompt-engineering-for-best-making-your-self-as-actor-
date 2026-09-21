@@ -1,0 +1,652 @@
+Character consistency
+
+
+MASTER REFERENCE-IMAGE CHARACTER CONSISTENCY PROMPT
+
+ABSOLUTE IDENTITY, BODY, CLOTHING AND FRAME-TO-FRAME PRESERVATION
+
+1. REFERENCE IMAGE IS THE HIGHEST-PRIORITY SOURCE
+
+USE THE PROVIDED REFERENCE IMAGE AS THE ABSOLUTE AND PERMANENT SOURCE OF TRUTH FOR THE CHARACTERS.
+
+The supplied reference image is not merely an inspiration, style reference, mood reference, or approximate character guide. It is the direct visual identity source for the recurring human characters.
+
+When the reference image is provided, preserve the actual people visible in that image.
+
+Do not redesign them.
+
+Do not reinterpret them.
+
+Do not generate alternative versions of them.
+
+Do not replace them with similar-looking AI-generated people.
+
+Do not create generic Tamil engineering instructors.
+
+Do not use textual character descriptions to override the visual appearance of the reference image.
+
+The reference image has priority over every generic visual assumption.
+
+The generated video must look as though the same real people shown in the reference image continue physically existing in the same scene throughout the entire video.
+
+The identity of every character must remain stable from the first frame to the last frame.
+
+---
+
+2. EXACTLY THREE RECURRING MEN
+
+There are EXACTLY THREE recurring Tamil male engineering characters corresponding to the three men visible in the provided reference image:
+
+1. BLACK CHECKED SHIRT MAN — THE DISTINCT FAT/HEAVY-SET MAN
+2. GREEN SHIRT MAN
+3. WHITE SHIRT MAN
+
+All three characters must remain separate individuals.
+
+The system must never merge their identities.
+
+The system must never exchange their faces.
+
+The system must never exchange their bodies.
+
+The system must never exchange their clothing.
+
+The system must never reinterpret one character as another.
+
+The three men must remain visually distinguishable throughout the entire video.
+
+---
+
+3. BLACK CHECKED SHIRT MAN — PRIMARY IDENTITY LOCK
+
+The man wearing the BLACK CHECKED SHIRT in the reference image is the same specific person in every frame.
+
+His identity must be preserved directly from the reference image.
+
+Most importantly, preserve his fat/heavy-set body appearance exactly as represented in the reference image.
+
+Do NOT make him slimmer.
+
+Do NOT make him leaner.
+
+Do NOT reduce his stomach, chest, shoulders, arms, neck, or overall body volume.
+
+Do NOT transform his body proportions into those of the green-shirt or white-shirt man.
+
+His natural body mass and silhouette are part of his identity.
+
+Preserve his:
+
+- Exact face
+- Facial structure
+- Facial proportions
+- Forehead
+- Cheeks
+- Jaw
+- Chin
+- Eyes
+- Eyebrows
+- Nose
+- Mouth
+- Lips
+- Ears
+- Skin appearance
+- Hairline
+- Hairstyle
+- Hair density
+- Moustache
+- Facial hair
+- Neck
+- Shoulder width
+- Chest
+- Abdomen
+- Arms
+- Hands
+- Overall heavy-set body proportions
+- Height
+- Relative size compared with the other two men
+- Black checked shirt
+- Exact checked pattern
+- Shirt color
+- Shirt fit
+- Sleeves
+- Collar
+- Fabric appearance
+- Any glasses or accessories visible in the reference image
+
+The black checked shirt man must remain visibly the same fat/heavy-set Tamil male instructor throughout the complete video.
+
+His face must never be transferred to either of the other two men.
+
+His body must never be transferred to either of the other two men.
+
+His black checked shirt must never change into green or white.
+
+---
+
+4. GREEN SHIRT MAN — PRIMARY IDENTITY LOCK
+
+The man wearing the GREEN SHIRT in the reference image is also a completely separate, permanent character.
+
+Use the actual green-shirt man from the reference image.
+
+Do not generate a new green-shirt character.
+
+Do not approximate his appearance.
+
+Do not make him resemble the black checked shirt man.
+
+Do not make him resemble the white-shirt man.
+
+Preserve his exact visual identity from the reference image.
+
+Preserve:
+
+- Face
+- Facial geometry
+- Facial proportions
+- Eyes
+- Eyebrows
+- Nose
+- Mouth
+- Lips
+- Ears
+- Cheeks
+- Jawline
+- Chin
+- Skin appearance
+- Hairline
+- Hairstyle
+- Hair texture
+- Moustache
+- Facial hair
+- Neck
+- Body proportions
+- Shoulder width
+- Height
+- Relative height
+- Clothing
+- Green shirt
+- Exact shirt color
+- Shirt pattern if present
+- Shirt fit
+- Sleeves
+- Collar
+- Accessories
+- Glasses if visible
+- Overall silhouette
+
+The green-shirt man's identity must remain stable even during camera movement, turning, walking, pointing, speaking, or changes of pose.
+
+---
+
+5. WHITE SHIRT MAN — PRIMARY IDENTITY LOCK
+
+The man wearing the WHITE SHIRT in the reference image must remain the same individual throughout the video whenever he appears.
+
+The white-shirt man must not be generated as a generic replacement character.
+
+Preserve the exact appearance visible in the supplied image.
+
+Preserve:
+
+- Face
+- Facial geometry
+- Eyes
+- Eyebrows
+- Nose
+- Mouth
+- Lips
+- Ears
+- Jaw
+- Chin
+- Skin appearance
+- Hairline
+- Hairstyle
+- Moustache
+- Facial hair
+- Body proportions
+- Height
+- Shoulder width
+- Overall silhouette
+- White shirt
+- Shirt fit
+- Shirt construction
+- Sleeves
+- Collar
+- Accessories
+- Glasses if present
+
+The white-shirt man must remain a distinct individual from the green-shirt man even if their facial appearance, body proportions, hairstyle, or other features are naturally similar.
+
+Similarity between the green-shirt and white-shirt men is NOT permission to merge them.
+
+They are two separate people.
+
+---
+
+6. CLOTHING-TO-IDENTITY ASSOCIATION LOCK
+
+Clothing is a permanent identity anchor.
+
+Maintain these associations exactly:
+
+BLACK CHECKED SHIRT = SAME FAT/HEAVY-SET MAN
+
+GREEN SHIRT = SAME GREEN-SHIRT MAN
+
+WHITE SHIRT = SAME WHITE-SHIRT MAN
+
+Never exchange clothing between characters.
+
+Never transfer a face into another shirt.
+
+Never transfer a body into another shirt.
+
+Never allow the black checked shirt man to suddenly wear green.
+
+Never allow the green shirt man to suddenly wear white.
+
+Never allow the white shirt man to suddenly wear black checked clothing.
+
+The shirt color and pattern must remain temporally stable.
+
+---
+
+7. FACE IDENTITY LOCK
+
+Faces are permanent.
+
+The face in frame 1 must remain the same face in frame 2, frame 3, and every subsequent frame.
+
+Maintain facial identity during:
+
+- Speaking
+- Blinking
+- Smiling
+- Turning
+- Looking sideways
+- Looking toward the camera
+- Looking at the engineering board
+- Looking at the shaft
+- Pointing
+- Walking
+- Standing
+- Hand gestures
+- Camera movement
+- Camera zoom
+- Camera rotation
+- Lighting changes
+
+Natural facial expression changes are permitted.
+
+Identity changes are NOT permitted.
+
+The face may move.
+
+The face may express emotion.
+
+The face may turn.
+
+But the person must remain exactly the same person.
+
+---
+
+8. BODY IDENTITY LOCK
+
+Body shape is also part of character identity.
+
+Do not normalize body proportions.
+
+Do not make all three men similar in body shape.
+
+In particular, preserve the distinctive fat/heavy-set body of the black checked shirt man exactly as represented in the reference image.
+
+Do not slim him.
+
+Do not enlarge him.
+
+Do not reduce his body mass.
+
+Do not change his height.
+
+Do not change his shoulder width.
+
+Do not change his torso proportions.
+
+Do not transform his silhouette into the green-shirt or white-shirt character.
+
+Likewise, do not transform the green-shirt or white-shirt men into the body shape of the black checked shirt man.
+
+---
+
+9. TEMPORAL CONSISTENCY
+
+The video must maintain continuous temporal identity.
+
+Every consecutive frame must depict the same physical people.
+
+No frame should introduce a new face.
+
+No frame should introduce a new body.
+
+No frame should introduce a new hairstyle.
+
+No frame should introduce a different moustache.
+
+No frame should introduce different clothing.
+
+No frame should subtly drift toward another person's appearance.
+
+Identity must not gradually change over time.
+
+Do not interpolate between faces.
+
+Do not morph one person into another.
+
+Do not regenerate faces during camera transitions.
+
+Do not reset character appearance after a scene transition.
+
+The characters must remain stable even when they temporarily leave the center of the frame.
+
+---
+
+10. CAMERA MOVEMENT MUST NOT CAUSE IDENTITY DRIFT
+
+Camera movement is subordinate to character identity.
+
+If the camera moves from a wide shot to a medium shot, preserve the same people.
+
+If the camera moves into a close-up, preserve the same face.
+
+If the camera moves around the characters, preserve the same body and clothing.
+
+If a character turns sideways, maintain the same facial structure and physical identity.
+
+If the lighting changes, do not regenerate the person's face.
+
+If the scene transitions, maintain character continuity.
+
+Camera movement must never become an excuse to create a new face.
+
+---
+
+11. ABSOLUTE NEGATIVE CHARACTER RULES
+
+FORBIDDEN:
+
+NO face morphing.
+
+NO identity drift.
+
+NO face swapping.
+
+NO character replacement.
+
+NO character duplication.
+
+NO character merging.
+
+NO character splitting.
+
+NO facial regeneration.
+
+NO facial reinterpretation.
+
+NO AI beautification that changes identity.
+
+NO facial reshaping.
+
+NO jaw alteration.
+
+NO nose alteration.
+
+NO eye alteration.
+
+NO cheek alteration.
+
+NO moustache alteration.
+
+NO hairstyle alteration.
+
+NO hairline alteration.
+
+NO ageing.
+
+NO de-ageing.
+
+NO body slimming.
+
+NO body enlargement.
+
+NO body reshaping.
+
+NO height alteration.
+
+NO shoulder alteration.
+
+NO torso alteration.
+
+NO clothing replacement.
+
+NO shirt-color change.
+
+NO shirt-pattern change.
+
+NO clothing transfer.
+
+NO additional people.
+
+NO background people who could be mistaken for the instructors.
+
+NO replacement during transitions.
+
+NO identity reset after camera cuts.
+
+NO identity reset after movement.
+
+NO identity reset after close-up.
+
+NO identity reset after returning to a previous camera angle.
+
+---
+
+12. NO CHARACTER REDESIGN
+
+Do not create cinematic reinterpretations of the instructors.
+
+Do not make them younger.
+
+Do not make them older.
+
+Do not make them thinner.
+
+Do not make them taller.
+
+Do not make them more muscular.
+
+Do not make them more handsome.
+
+Do not make them more stylized.
+
+Do not make them look like actors.
+
+Do not make them look like different models.
+
+Do not apply an artificial beauty filter.
+
+Do not modify their natural appearance.
+
+The goal is reference-image fidelity, not character redesign.
+
+---
+
+13. CHARACTER SEPARATION RULE
+
+Always maintain three independent identity tracks:
+
+TRACK A:
+Black checked shirt → fat/heavy-set man → permanent identity A.
+
+TRACK B:
+Green shirt → green-shirt man → permanent identity B.
+
+TRACK C:
+White shirt → white-shirt man → permanent identity C.
+
+Never cross-contaminate these tracks.
+
+Face A stays with body A and clothing A.
+
+Face B stays with body B and clothing B.
+
+Face C stays with body C and clothing C.
+
+Never mix A+B, B+C, or A+C.
+
+---
+
+14. REFERENCE IMAGE OVERRIDES TEXTUAL ASSUMPTIONS
+
+If any textual description conflicts with the actual reference image, follow the reference image.
+
+Do not infer missing facial details from generic ethnicity stereotypes.
+
+Do not invent facial features that are not visible.
+
+Do not simplify the people into generic Tamil male instructors.
+
+Do not replace ambiguous details with AI defaults.
+
+The supplied image is the visual authority.
+
+The instruction is:
+
+LOOK AT THE PROVIDED IMAGE → IDENTIFY THE THREE ACTUAL PEOPLE → LOCK THEIR IDENTITIES → PRESERVE THEM THROUGH EVERY FRAME.
+
+---
+
+15. NATURAL MOTION WITHOUT IDENTITY CHANGE
+
+The instructors may move naturally.
+
+They may:
+
+- Point
+- Talk
+- Turn
+- Look at the board
+- Look at the shaft
+- Move their hands
+- Shift posture
+- Walk naturally
+- Interact with engineering equipment
+
+However, movement must not alter their identity.
+
+Their bodies can change pose.
+
+Their identity cannot change.
+
+Their expressions can change.
+
+Their faces cannot change identity.
+
+Their camera angle can change.
+
+Their facial geometry cannot change.
+
+---
+
+16. CONTINUOUS PHYSICAL PRESENCE
+
+Whenever an instructor is visible, treat him as the same physical person who was present in the preceding frames.
+
+The video should feel like a continuous real-world recording rather than a sequence of newly generated character images.
+
+Maintain:
+
+- Same people
+- Same bodies
+- Same faces
+- Same clothing
+- Same proportions
+- Same hairstyles
+- Same moustaches
+- Same relative heights
+- Same identity relationships
+
+from beginning to end.
+
+---
+
+17. FINAL FRAME REQUIREMENT
+
+The final frame must contain the same identities established by the reference image.
+
+The black checked shirt man must still be the same fat/heavy-set man.
+
+The green-shirt man must still be the same green-shirt man.
+
+The white-shirt man must still be the same white-shirt man whenever visible.
+
+No identity drift is permitted in the final frame.
+
+No final-frame character replacement.
+
+No final-frame face regeneration.
+
+No final-frame body transformation.
+
+No final-frame clothing change.
+
+The final image must be clean, stable, realistic, professional and temporally consistent with the preceding frame.
+
+---
+
+18. ABSOLUTE FINAL INSTRUCTION
+
+THE PROVIDED REFERENCE IMAGE IS THE PERMANENT CHARACTER IDENTITY ANCHOR FOR THE ENTIRE VIDEO.
+
+DO NOT DESCRIBE THE PEOPLE AND THEN RECREATE THEM.
+
+DO NOT REDESIGN THEM.
+
+DO NOT APPROXIMATE THEM.
+
+DO NOT SUBSTITUTE THEM.
+
+DIRECTLY PRESERVE THE ACTUAL PEOPLE FROM THE PROVIDED REFERENCE IMAGE.
+
+The fat/heavy-set Tamil man wearing the black checked shirt must remain exactly that same person.
+
+The Tamil man wearing the green shirt must remain exactly that same person.
+
+The Tamil man wearing the white shirt must remain exactly that same person.
+
+The green-shirt and white-shirt men may naturally have similar visual characteristics, but they are separate individuals and must remain separate individuals.
+
+The black checked shirt man's distinctive heavy-set/fat body must never be converted into another body type.
+
+The identity-to-clothing relationship must never change.
+
+Every frame must preserve the same three people.
+
+Every transition must preserve the same three people.
+
+Every camera angle must preserve the same three people.
+
+Every scene must preserve the same three people.
+
+Every close-up must preserve the same three people.
+
+Every final frame must preserve the same three people.
+
+REFERENCE IMAGE = ABSOLUTE SOURCE OF TRUTH.
+
+SAME THREE PEOPLE = SAME FACES + SAME BODIES + SAME CLOTHING + SAME PROPORTIONS + SAME IDENTITIES = EVERY FRAME.
+
+NO MORPHING. NO IDENTITY DRIFT. NO CHARACTER REPLACEMENT. NO BODY TRANSFORMATION. NO CLOTHING TRANSFER. NO FACE SWAPPING.
+
+Preserve the reference-image characters exactly as they are.
