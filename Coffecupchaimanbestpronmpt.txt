@@ -1,0 +1,157 @@
+Create a photorealistic 10-second educational posture video using the supplied images as references.
+
+IDENTITY REFERENCE:
+Use the uploaded close-up portrait of the man as the exact facial and identity reference. Preserve his facial structure, eyes, eyebrows, nose, lips, ears, jawline, hairstyle, skin tone, natural facial proportions and glasses exactly. Maintain extremely high facial consistency throughout every shot. Do not generate a different person and do not beautify, age, slim, widen, or otherwise alter his face.
+
+POSTURE REFERENCE:
+Use the supplied 18-pose sitting photograph as the exact reference for poses 1–6. Reproduce the man's body position, chair interaction, leg placement, hand position and mug placement accurately.
+
+WARDROBE:
+Dark green short-sleeve shirt, light grey trousers and black footwear exactly matching the sitting reference. Do not change clothing between poses.
+
+LOCATION:
+Keep the same indoor photo-shoot environment as the sitting reference: green wall, window with vertical bars, dark plastic chair, reddish-brown tiled floor and natural-looking room background.
+
+PROFESSIONAL PHOTO-SHOOT LIGHTING:
+Create realistic professional portrait photography lighting while preserving the original room appearance. Use a large soft key light approximately 45 degrees to the front-left of the subject, producing soft facial illumination and gentle natural shadows. Add a weaker fill light from the opposite side to retain facial detail without flattening the face. Add subtle natural window daylight from the window side. Use a very soft background separation/rim light only if necessary. Lighting must remain consistent across all six poses. No harsh flash, blown highlights, plastic skin, artificial HDR, excessive orange skin, or dramatic cinematic lighting. Preserve realistic skin texture and natural facial shadows.
+
+CAMERA:
+Professional DSLR/mirrorless photography look, realistic 35–50 mm lens perspective, natural depth of field, sharp face and body, realistic exposure, stable camera, no fisheye distortion. Keep enough of the frame visible to clearly show the sitting posture.
+
+TIMELINE:
+0.0–1.6 seconds — POSE 1: “LEGS CROSSED”
+Exactly reproduce reference pose 1: one leg crossed over the opposite leg while seated and holding the mug.
+
+1.6–3.2 seconds — POSE 2: “ANKLE CROSSED”
+Exactly reproduce reference pose 2: ankles crossed while seated.
+
+3.2–4.8 seconds — POSE 3: “BOTH FEET FLAT”
+Exactly reproduce reference pose 3: both feet flat on the floor, knees forward.
+
+4.8–6.4 seconds — POSE 4: “ONE LEG EXTENDED”
+Exactly reproduce reference pose 4: one leg extended forward while the other remains bent.
+
+6.4–8.0 seconds — POSE 5: “LEGS ANGLED TO ONE SIDE”
+Exactly reproduce reference pose 5: both legs angled toward one side.
+
+8.0–10.0 seconds — POSE 6: “SIDEWAYS CHAIR POSE”
+Exactly reproduce reference pose 6: subject sitting sideways across the chair.
+
+Display a small clean numbered title for each pose. Keep text simple and readable.
+
+NARRATION:
+“One, legs crossed. Two, ankles crossed. Three, both feet flat. Four, one leg extended. Five, legs angled to one side. Six, sideways sitting.”
+
+Use a calm, clear male educational voice synchronized with the six pose changes.
+
+IMPORTANT:
+The six poses must appear as six distinct photographic positions, not as one continuous distorted body transformation. Use clean professional cuts between poses. Keep the exact same person, face, body proportions, clothing, chair, room and lighting.
+
+NEGATIVE PROMPT:
+different face, identity change, face morphing, facial distortion, different hairstyle, different skin tone, body transformation, body slimming, body enlargement, extra arms, extra hands, extra fingers, missing fingers, malformed legs, duplicated legs, floating feet, distorted chair, duplicated mug, floating mug, clothing change, background change, harsh flash, plastic skin, oversaturated skin, cartoon, CGI appearance, fisheye lens, extreme shadows, unnatural anatomy.
+
+Create a photorealistic 10-second continuation of an educational sitting-posture photo shoot.
+
+IDENTITY:
+Use the supplied close-up portrait as the exact identity reference for the man. Maintain extremely high facial consistency: identical face shape, eyes, eyebrows, nose, lips, jawline, ears, hairstyle, skin tone, facial proportions and glasses. The subject must remain unmistakably the same person throughout all six shots.
+
+POSTURE:
+Use the supplied 18-pose sitting photograph as the exact reference for poses 7–12. Reproduce each sitting position precisely rather than inventing alternative poses.
+
+WARDROBE:
+Exactly the same dark green short-sleeve shirt, light grey trousers and black footwear from the reference. No wardrobe changes.
+
+ENVIRONMENT:
+Maintain the same room, green wall, window with bars, dark plastic chair, reddish-brown tiled floor and photographic setting.
+
+PROFESSIONAL PHOTO-SHOOT LIGHTING:
+Use a controlled professional portrait setup integrated naturally into the room. Large diffused softbox key light at approximately 45 degrees from the front-left, soft low-intensity fill light from the opposite side, and subtle daylight coming through the window. Preserve realistic three-dimensional facial modeling and natural skin texture. Shadows should be soft and controlled. Keep exposure, white balance, contrast and light direction identical throughout all six poses. Avoid harsh direct flash, excessive highlights, artificial skin smoothing, orange color cast or dramatic movie lighting.
+
+CAMERA:
+High-quality DSLR/mirrorless photography appearance, natural 35–50 mm perspective, realistic proportions, sharp subject, stable camera, moderate depth of field. Frame the body sufficiently wide to show each sitting position accurately.
+
+TIMELINE:
+0.0–1.6 seconds — POSE 7: “ANKLE OVER KNEE”
+Exactly reproduce reference pose 7 with one ankle resting over the opposite knee.
+
+1.6–3.2 seconds — POSE 8: “LEANING BACK”
+Exactly reproduce reference pose 8 with the subject leaning back into the chair.
+
+3.2–4.8 seconds — POSE 9: “LEANING FORWARD”
+Exactly reproduce reference pose 9 with the subject leaning forward while holding the mug.
+
+4.8–6.4 seconds — POSE 10: “ARM ON ARMREST”
+Exactly reproduce reference pose 10 with one arm resting naturally on the chair armrest.
+
+6.4–8.0 seconds — POSE 11: “MUG WITH BOTH HANDS”
+Exactly reproduce reference pose 11 with both hands holding the mug.
+
+8.0–10.0 seconds — POSE 12: “NEAR MOUTH / SIP”
+Exactly reproduce reference pose 12 with the mug naturally near the mouth.
+
+NARRATION:
+“Seven, ankle over knee. Eight, leaning back. Nine, leaning forward. Ten, arm on armrest. Eleven, mug with both hands. Twelve, sipping.”
+
+Synchronize the narration with the six visual positions.
+
+Make every pose look like a carefully photographed still posture. Use clean cuts rather than morphing from one posture into another.
+
+Maintain identical lighting, camera quality, environment, clothing and facial identity throughout.
+
+NEGATIVE PROMPT:
+identity change, face morphing, different person, altered facial structure, different glasses, hairstyle change, skin-tone change, body-size change, extra limbs, extra fingers, malformed hands, malformed feet, duplicated mug, floating mug, warped chair, distorted anatomy, unnatural spine, unnatural neck, clothing change, room change, lighting change, harsh flash, excessive HDR, plastic skin, cartoon, CGI, blurry face, fisheye distortion.
+
+Create a photorealistic final 10-second educational posture video using the supplied images as exact references.
+
+IDENTITY REFERENCE:
+Use the supplied close-up portrait as the primary facial identity reference. The man must remain exactly the same individual throughout the entire sequence. Preserve his facial geometry, eyes, eyebrows, nose, lips, jawline, ears, hairstyle, skin texture, skin tone, glasses and natural facial proportions. Do not alter or reinterpret his face.
+
+POSTURE REFERENCE:
+Use the supplied 18-pose sitting image as the exact reference for positions 13–18. Reproduce the positions accurately, including body orientation, leg position, hands, mug, book, laptop, chair and surrounding furniture.
+
+WARDROBE:
+Keep exactly the same dark green shirt, light grey trousers and black footwear as the sitting reference.
+
+ENVIRONMENT:
+Maintain the same realistic indoor environment and photographic continuity: green wall, barred window, dark plastic chair, reddish-brown tiled floor, desk, laptop and books where required.
+
+PROFESSIONAL PHOTO-SHOOT LIGHTING:
+Use premium professional portrait photography lighting. Large soft diffused key light positioned approximately 45 degrees from the subject, gentle fill light on the opposite side, and realistic soft daylight from the window. Preserve subtle natural facial shadows and realistic skin texture. Maintain the same light direction, intensity, color temperature and exposure across all six poses. The room should look naturally illuminated rather than like a movie set. No harsh flash and no excessive artificial glow. Ensure the face remains clearly visible and accurately exposed.
+
+CAMERA:
+High-end DSLR/mirrorless photography appearance, natural 35–50 mm lens perspective, realistic human proportions, stable camera, sharp facial details, natural depth of field. Use wider framing when necessary to show the desk, laptop, book or window.
+
+TIMELINE:
+0.0–1.6 seconds — POSE 13: “LOOKING SIDEWAYS”
+Exactly reproduce reference pose 13: seated while looking sideways.
+
+1.6–3.2 seconds — POSE 14: “LOOKING AT CAMERA”
+Exactly reproduce reference pose 14: seated and looking directly toward the camera.
+
+3.2–4.8 seconds — POSE 15: “READING WITH COFFEE”
+Exactly reproduce reference pose 15: seated, reading the open book while holding the coffee mug.
+
+4.8–6.4 seconds — POSE 16: “AT A DESK”
+Exactly reproduce reference pose 16: seated at the desk with laptop and books in the same arrangement.
+
+6.4–8.0 seconds — POSE 17: “WINDOW-SIDE SITTING”
+Exactly reproduce reference pose 17: seated beside the window, looking toward the window while holding the mug.
+
+8.0–10.0 seconds — POSE 18: “RELAXED LOUNGE”
+Exactly reproduce reference pose 18: relaxed lounge sitting position, matching the reference precisely.
+
+NARRATION:
+“Thirteen, looking sideways. Fourteen, looking at camera. Fifteen, reading with coffee. Sixteen, at a desk. Seventeen, window-side sitting. Eighteen, relaxed lounge.”
+
+Use a calm, natural male educational narrator. Synchronize each spoken number and pose name with the corresponding image.
+
+At the end, if the video system permits, show a clean final title:
+“18 COMMON SITTING POSITIONS”
+
+Keep all six positions as distinct photographic shots. Do not morph the body between poses.
+
+FINAL VISUAL QUALITY:
+Photorealistic human anatomy, realistic skin pores, accurate hands, realistic fabric folds, physically correct chair contact, realistic shadows, natural window light, professional photography, consistent exposure, consistent white balance and extremely high facial identity consistency.
+
+NEGATIVE PROMPT:
+different person, identity drift, face morphing, facial reconstruction, altered face, different hairstyle, different glasses, different skin tone, different body proportions, body slimming, body enlargement, extra limbs, extra fingers, missing fingers, malformed hands, distorted feet, duplicated mug, floating mug, warped laptop, distorted book, warped chair, unnatural neck rotation, unnatural spine, clothing changes, room changes, lighting changes, harsh flash, excessive HDR, plastic skin, cartoon, CGI, artificial face, blurry face, fisheye distortion, cinematic identity drift. Use red long shirt tick in and use light photoshoot as shown in image correctly create video bright light
